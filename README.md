@@ -6,10 +6,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashithke&label=Profile%20views&color=0e75b6&style=flat" alt="ashithke" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### Hey there 👋 I'm Ashith K E
 
-- 🌱 I’m currently learning **AWS AND AZURE CLOUD**
+🔧 Cloud Engineer | Frontend Developer |  
+🌩️ AWS | Azure | Terraform | Docker | CI/CD | Three.js  
+🧠 Always learning. Always building.
 
-- 📫 How to reach me **ashithke@gmail.com**
+📫 Reach me at: ashith@example.com  
+🌐 [My Portfolio](https://your-portfolio-link.com)
 
 - ⚡ Fun fact **I am Funny**
 
