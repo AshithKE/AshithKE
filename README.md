@@ -1,6 +1,7 @@
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png.webp)
 <h1 align="center">Hi 👋, I'm ASHITH K E</h1>
-<h3 align="center">A passionate cloud developer from India</h3>
+<h3 align="center">A passionate cloud Engineer from India</h3>
 <img align="right"alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&s.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashithke&label=Profile%20views&color=0e75b6&style=flat" alt="ashithke" /> </p>
@@ -10,7 +11,7 @@
 Hey there 👋 I'm Ashith K E
 
 🔧 Cloud Engineer | Frontend Developer |  
-🌩️ AWS | Azure | Terraform | Docker | CI/CD | Three.js  
+🌩️ AWS | Azure |   
 🧠 Always learning. Always building.
 
 📫 Reach me at: ashith@example.com  
